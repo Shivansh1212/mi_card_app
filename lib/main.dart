@@ -9,9 +9,9 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
         home: Scaffold(
-            backgroundColor: Colors.teal,
+            backgroundColor: Colors.orange,
             appBar: AppBar(
-              backgroundColor: Colors.black54,
+              backgroundColor: Colors.black87,
               title: Text("My Info card app"),
             ),
             body: SafeArea(
